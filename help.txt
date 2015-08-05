@@ -1,0 +1,4 @@
+to deploy
+git add .
+git commmit -m "changing"
+git push azure master
